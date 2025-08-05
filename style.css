@@ -425,6 +425,7 @@ header nav ul li .button {
   transition: all 0.2s ease-in;
 }
 
+
 .accordion-trigger[aria-expanded="true"] img {
   transform: rotate(180deg);
 }
@@ -507,3 +508,5 @@ header nav ul li .button {
     padding-inline: 1.5rem;
   }
 }
+
+
